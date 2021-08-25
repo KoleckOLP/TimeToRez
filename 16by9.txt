@@ -13,3 +13,11 @@
 800x450 ✔ cus
 856x480 ❌ cur, not a super valid 16:9
 960x540 ✔ cus
+
+
+The actual implemented now:
+    1280x720 = 07:20 - 08:07  # 47 min
+    1366x768 = 08:08 - 08:59  # 51 min
+    1600x900 = 09:00 - 11:19  # 2 hours 19 min
+    1920x1080 = 11:20 - 14:39  # 3 hours 19 min
+    2560x1440 = 14:40 - 07:19  # 7 hours 21 min
