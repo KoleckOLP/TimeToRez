@@ -20,8 +20,8 @@ def TimeRezer(width, height, start, end, now, reznow):
             pass
         else:
             print(f"your monitors will be changed to {width}x{height} until {end}")
-            # os.system(f"ChangeScreenResolution.exe /w={width} /h={height} /d=0")
-            # os.system(f"ChangeScreenResolution.exe /w={width} /h={height} /d=1")
+            os.system(f"ChangeScreenResolution.exe /w={width} /h={height} /d=0")
+            os.system(f"ChangeScreenResolution.exe /w={width} /h={height} /d=1")
             return f"{width}x{height}"
 
 
