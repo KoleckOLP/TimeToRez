@@ -29,8 +29,8 @@ def TimeRezChanger(now, reznow):
     reznow = TimeRezer(1280, 720, "07:20", "08:07", now, reznow)  # 47 min
     reznow = TimeRezer(1366, 768, "08:08", "08:59", now, reznow)  # 51 min
     reznow = TimeRezer(1600, 900, "09:00", "11:19", now, reznow)  # 2 hours 19 min
-    reznow = TimeRezer(1920, 1080, "11:20", "14:40", now, reznow)  # 12 hours 39 min
-    reznow = TimeRezer(2560, 1440, "14:40", "07:19", now, reznow)  # 7 hours 19 min
+    reznow = TimeRezer(1920, 1080, "11:20", "14:39", now, reznow)  # 3 hours 19 min
+    reznow = TimeRezer(2560, 1440, "14:40", "07:19", now, reznow)  # 7 hours 21 min
     return reznow
 
 
