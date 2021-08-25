@@ -1,0 +1,15 @@
+00:00 - 06:16 = 768x432 ✔ cus   (6h 16min)   no comment
+06:16 - 06:48 = 1024x576 ✔ cus  (32 min)     okay this resolution is cursed
+06:48 - 07:20 = 1152x648 ✔ cus  (32 min)     thanks google for blessing my project
+07:20 - 08:08 = 1280x720 ✔ def  (48 min)     is fine but small
+08:08 - 09:00 = 1366x768 ❌ def  (52 min)     yeah I really don't like this one
+09:00 - 11:20 = 1600x900 ✔ def  (2h 20min)   this resolution should be okay 
+11:20 - 00:00 = 1920x1080 ✔ def (12h 40 min) most time would have the best resolution
+
+
+
+512x288 ✔ cus
+640x360 ✔ cus
+800x450 ✔ cus
+856x480 ❌ cur, not a super valid 16:9
+960x540 ✔ cus
